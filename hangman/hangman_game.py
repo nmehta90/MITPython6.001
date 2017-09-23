@@ -4,7 +4,7 @@ import hangman_functions as hngfnc
 
 
 
-secret_word = 'word'
+#secret_word = 'word'
 
 def hangman():
     secret_word = hngfnc.secret_word()
